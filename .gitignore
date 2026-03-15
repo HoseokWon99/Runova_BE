@@ -194,3 +194,5 @@ dist
 /etc/ssl/certs/*.pem
 runova.pem
 server.sh
+
+data
